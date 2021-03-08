@@ -1,8 +1,14 @@
 Voice Powered Expense Manager.
+
+
 Key Features:
+
   -> Can add expense/income in various categories like bussiness, salary etc.
+  
   -> Can use Speechly to enter Income/Expenses using voice.
+  
   ->  Using Chart.js to show Income and Expenses.
+  
   -> Used React-Context for Global State Management.
 
 
